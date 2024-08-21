@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #008080; font-size: 36px;">Hi there, I'm Sachin 👋</h1>
 <h3 align="center" style="color: #90A4AE;">PhD Candidate in Mechanical Engineering |  Computational Material Scientist !</h3>
 
-<a href="https://app.daily.dev/Sachinscnpdl" style="text-align: center;"><img align="right" src="YOUR_DEV_CARD_IMAGE_URL" width="300" alt="Sachin's Dev Card"/></a>
+<a href="https://app.daily.dev/Sachinscnpdl" style="text-align: center;"><img align="right" src="YOUR_DEV_CARD_IMAGE_URL" width="300" alt=" "/></a>
 
 ### 🛠 Research Interests:
 -   <i class="fa-solid fa-flask"></i> Energy Materials Microstructure Evolution
