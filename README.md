@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #008080; font-size: 36px;">Hi there, I'm Sachin 👋</h1>
-<h3 align="center" style="color: #90A4AE;">PhD Candidate in Mechanical Engineering |  Computational Material Scientist | Building cool things with code!</h3>
+<h3 align="center" style="color: #90A4AE;">PhD Candidate in Mechanical Engineering |  Computational Material Scientist !</h3>
 
 <a href="https://app.daily.dev/Sachinscnpdl" style="text-align: center;"><img align="right" src="YOUR_DEV_CARD_IMAGE_URL" width="300" alt="Sachin's Dev Card"/></a>
 
@@ -29,8 +29,15 @@
 </p>
 
 ### 📊 Total Stats:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachinscnpdl&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=212428" alt="Sachinscnpdl's Top Languages" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachinscnpdl&show_icons=true&locale=en&layout=compact&title_color=ffdd57&icon_color=ff6f61&text_color=ffffff&bg_color=2b2d42" alt="Sachinscnpdl's Top Languages" />
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sachinscnpdl&show_icons=true&locale=en&title_color=ffffff&icon_color=DCDCDD&text_color=04DB4D&bg_color=212428" alt="Sachinscnpdl's GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachinscnpdl&show_icons=true&locale=en&title_color=ffdd57&icon_color=ff6f61&text_color=ffffff&bg_color=2b2d42" alt="Sachinscnpdl's GitHub Stats" />
+</p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinscnpdl&theme=soft-green" alt="Sachinscnpdl's GitHub Streak" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinscnpdl&theme=tokyonight" alt="Sachinscnpdl's GitHub Streak" />
+</p>
+
