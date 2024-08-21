@@ -23,7 +23,7 @@
 ### 🧰 Languages and Tools:
 <p align="center"> 
   <a href="https://www.mooseframework.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Moose_Multiphysics.png" alt="MOOSE Framework" width="100" height="60"/></a> 
-   <a href="https://www.quantum-espresso.org/" target="_blank" rel="noreferrer"><img src="https://www.quantum-espresso.org/wp-content/uploads/2022/03/quantum_ogo_ok.png" alt="Quantum_Espresso" width="40" height="60"/></a> 
+   <a href="https://www.quantum-espresso.org/" target="_blank" rel="noreferrer"><img src="https://www.quantum-espresso.org/wp-content/uploads/2022/03/quantum_ogo_ok.png" alt="Quantum_Espresso" width="200" height="60"/></a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="60"/></a> 
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="80" height="60"/></a> 
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="60"/></a>
