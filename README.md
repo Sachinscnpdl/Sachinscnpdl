@@ -28,8 +28,7 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
 </p>
 
-### 📊 Total Stats:
-<p align="center">
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #ff6f61;">📊 Total Stats:</h3><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachinscnpdl&show_icons=true&locale=en&layout=compact&title_color=ffdd57&icon_color=ff6f61&text_color=ffffff&bg_color=2b2d42" alt="Sachinscnpdl's Top Languages" />
 </p>
 
