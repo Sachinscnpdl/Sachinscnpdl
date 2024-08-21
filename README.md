@@ -7,7 +7,7 @@
 - 🌱 Phase-field methods
 - Multicomponent Alloys
 - Functional Materials
-- 📫 How to reach me **@Sachinscnpdl EVERYWHERE (but not everywhere xd)**
+
 
 <!---
 Sachinscnpdl/Sachinscnpdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
