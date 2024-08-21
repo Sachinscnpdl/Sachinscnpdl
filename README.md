@@ -22,7 +22,7 @@
 
 ### 🧰 Languages and Tools:
 <p align="center"> 
-  <a href="https://www.mooseframework.org/" target="_blank" rel="noreferrer"><img src="[https://upload.wikimedia.org/wikipedia/commons/5/5c/Moose_logo.png](https://mooseframework.inl.gov/releases/moose/v1.0.0/index.html)" alt="MOOSE Framework" width="40" height="40"/></a> 
+  <a href="https://www.mooseframework.org/" target="_blank" rel="noreferrer"><img src="https://mooseframework.inl.gov/releases/moose/v1.0.0/index.html" alt="MOOSE Framework" width="40" height="40"/></a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> 
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="40" height="40"/></a> 
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
