@@ -36,9 +36,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">This week I spent my time on:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sachinscnpdl&title_color=04DB4D&icon_color=04DB4D&text_color=DCDCDD&bg_color=212428" alt="Sachinscnpdl" /></p>
-
 
 <h3 align="left">Total stats:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachinscnpdl&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=212428" alt="Sachinscnpdl" /></p>
