@@ -18,16 +18,11 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/Sachinscnpdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Sachinscnpdl" height="30" width="40" /></a>
-<a href="https://dev.to/Sachinscnpdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Sachinscnpdl" height="30" width="40" /></a>
-<a href="https://twitter.com/Sachinscnpdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sachinscnpdl" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/Sachinscnpdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sachinscnpdl" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11030288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11030288" height="30" width="40" /></a>
-<a href="https://codesandbox.com/Sachinscnpdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="Sachinscnpdl" height="30" width="40" /></a>
-<a href="https://fb.com/sachin.yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sachin.yourprofile" height="30" width="40" /></a>
-<a href="https://instagram.com/sachin_yourprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sachin_yourprofile" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/channel/UCyourchannelid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Sachin's YouTube Channel" height="30" width="40" /></a>
-<a href="https://discord.gg/#9039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9039" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
