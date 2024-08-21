@@ -14,9 +14,9 @@
 </p>
 
 ### 📫 Connect with Me:
-<p style="text-align: left;">
-  <a href="https://linkedin.com/in/Sachinscnpdl" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-  <a href="https://www.youtube.com/channel/UCyourchannelid" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+<p align="center">
+  <a href="https://linkedin.com/in/Sachinscnpdl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sachinscnpdl" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCyourchannelid" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Sachin's YouTube Channel" height="30" width="40" /></a>
   <a href="https://scholar.google.com/citations?user=AY4OacUAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Google_Scholar_logo.png" alt="Google Scholar" width="40" height="40"/></a>
 </p>
 
