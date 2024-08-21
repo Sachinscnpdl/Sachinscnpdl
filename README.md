@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">🔍 Passionate PhD Candidate in Mechanical Engineering | 🧬 Computational Material Scientist </h3>
 
-<a align="right" href="https://app.daily.dev/Sachinscnpdl"><img align="right" src="https://api.daily.dev/devcards/bc2f6492faf942069608ff35c80dcaa4.png?r=bhn" width="300" alt="Sachin's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/Sachinscnpdl"><img align="right" src=" " width="300" alt="Sachin's Dev Card"/></a>
 
 - 👀 Energy materials microstructure evolution
 - 🌱 Phase-field methods
