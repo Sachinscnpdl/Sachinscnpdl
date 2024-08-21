@@ -3,7 +3,6 @@
 
 <a href="https://app.daily.dev/Sachinscnpdl" style="text-align: center;"><img align="right" src=" " width="300" alt="Sachin's Dev Card"/></a>
 
----
 
 ### 🛠 Research Interests:
 - 👀 **Energy Materials Microstructure Evolution**
@@ -11,13 +10,12 @@
 - 🔗 **Multicomponent Alloys**
 - ⚙️ **Functional Materials**
 
----
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Sachinscnpdl&label=Profile%20views&color=blueviolet&style=plastic" alt="Sachinscnpdl" /> 
 </p>
 
----
+
 
 ### 📫 Connect with Me:
 <p align="center">
@@ -26,7 +24,7 @@
   <a href="https://scholar.google.com/citations?user=AY4OacUAAAAJ&hl=en&oi=ao" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Google_Scholar_logo.png" alt="Google Scholar" width="40" height="40"/></a>
 </p>
 
----
+
 
 ### 🧰 Languages and Tools:
 <p align="center"> 
@@ -36,7 +34,7 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
 </p>
 
----
+
 
 ### 📊 Total Stats:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachinscnpdl&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=212428" alt="Sachinscnpdl's Top Languages" /></p>
