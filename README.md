@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.youtube.com/channel/UCyourchannelid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Sachin's YouTube Channel" height="30" width="40" /></a>
 
+  <a href="[https://scholar.google.com/](https://scholar.google.com/citations?user=AY4OacUAAAAJ&hl=en)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Google_Scholar_logo.png" alt="Google Scholar" width="40" height="40"/> </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
