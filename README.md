@@ -30,7 +30,7 @@
 
 ### 📊 Total Stats:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sachinscnpdl&show_icons=true&locale=en&layout=compact&title_color=ffdd57&icon_color=ff6f61&text_color=ffffff&bg_color=2b2d42" alt="Sachinscnpdl's Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sachinscnpdl&show_icons=true&locale=en&title_color=ffdd57&icon_color=ff6f61&text_color=ffffff&bg_color=2b2d42" alt="Sachinscnpdl's GitHub Stats" />
